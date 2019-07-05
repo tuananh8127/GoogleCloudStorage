@@ -3,7 +3,7 @@ namespace Google\Cloud\Model\MediaStorage\File\Storage;
 //include_once('vendor/autoload.php');
 use Google\Cloud\ServiceBuilder, Google\Cloud\Exception;
 //$object property is set by method object_exists()
-class GoogleCloudStorage {
+class GoogleCloudStorageNew {
 	private $json_key;
 	private $project;
 	private $bucket_id;

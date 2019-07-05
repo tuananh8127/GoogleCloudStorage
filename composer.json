@@ -1,12 +1,14 @@
 {
     "name": "votuananh/google-cloud-storage-new",
-    "description": "the first composer package",
-    "type": "php",
+    "description": "",
+    "type": "packag-php",
     "license": "google-cloud-storage-new",
     "authors": [
         {
             "name": "google-cloud-storage-new",
-            "email": "votuananh8127@gmail.com"
+            "email": "votuananh8127@gmail.com",
+            "homepage": "https://www.hitechfocus.com",
+            "role": "Developer"
         }
     ],
     "minimum-stability": "dev",
@@ -15,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "votuananh\\google-cloud-storage-new\\": "src/"
+            "cAc\\GcsWrapper\\GoogleCloudStorageNew\\": "src"
         }
     }
 }
