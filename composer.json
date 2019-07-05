@@ -1,11 +1,11 @@
 {
-    "name": "votuananh/google-cloud-storage",
+    "name": "votuananh/google-cloud-storage-new",
     "description": "the first composer package",
     "type": "php",
-    "license": "google-cloud-storage",
+    "license": "google-cloud-storage-new",
     "authors": [
         {
-            "name": "google-cloud-storage",
+            "name": "google-cloud-storage-new",
             "email": "votuananh8127@gmail.com"
         }
     ],
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "votuananh\\google-cloud-storage\\": "src/"
+            "votuananh\\google-cloud-storage-new\\": "src/"
         }
     }
 }
