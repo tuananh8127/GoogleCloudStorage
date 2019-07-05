@@ -1,8 +1,9 @@
 {
     "name": "votuananh/google-cloud-storage-new",
+    "version": "1.0.0",
     "description": "",
     "type": "packag-php",
-    "license": "google-cloud-storage-new",
+    "license": "UNLICENSED",
     "authors": [
         {
             "name": "google-cloud-storage-new",
